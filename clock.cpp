@@ -20,5 +20,6 @@ int main(int argc, char *argv[])
   printf("%f\n", degree(1, 5));
   //local update cover
   //server update3
+  //lala
   return 0;
 }
