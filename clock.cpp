@@ -20,5 +20,6 @@ int main(int argc, char *argv[])
   printf("%f\n", degree(1, 5));
   //chen update
   //main update
+  //server update
   return 0;
 }
