@@ -26,5 +26,6 @@ int main(int argc, char *argv[])
   //together with readme2
   //local clock alone
   //unstage
+  //conflict rebase
   return 0;
 }
