@@ -6,3 +6,4 @@ no relate with clock
 rebase test 1
 
 conflict rebase
+conflict rebase2
