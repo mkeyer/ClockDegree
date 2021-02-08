@@ -24,5 +24,6 @@ int main(int argc, char *argv[])
   //local update 2
   //together with readme
   //together with readme2
+  //local clock alone
   return 0;
 }
