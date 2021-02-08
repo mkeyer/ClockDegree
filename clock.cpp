@@ -28,5 +28,6 @@ int main(int argc, char *argv[])
   //unstage
   //conflict rebase
   //unstage2
+  //conflict rebase2 clock
   return 0;
 }
