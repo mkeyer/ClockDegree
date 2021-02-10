@@ -18,11 +18,7 @@ float degree(int hour, int min)
 int main(int argc, char *argv[])
 {
   printf("%f\n", degree(1, 5));
-  //local update cover
-  //server update3
-  //lala
-  //local update 2
-  //together with readme
+  //master update
 
   return 0;
 }
