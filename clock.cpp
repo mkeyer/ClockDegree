@@ -18,8 +18,7 @@ float degree(int hour, int min)
 int main(int argc, char *argv[])
 {
   printf("%f\n", degree(1, 5));
-  //master update
-    //chen2
+  //jessie2
 
   return 0;
 }
