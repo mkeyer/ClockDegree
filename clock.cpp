@@ -23,12 +23,6 @@ int main(int argc, char *argv[])
   //lala
   //local update 2
   //together with readme
-  //together with readme2
-  //local clock alone
-  //unstage
-  //conflict rebase
-  //unstage2
-  //conflict rebase2 clock
-  //unstage3local
+
   return 0;
 }
