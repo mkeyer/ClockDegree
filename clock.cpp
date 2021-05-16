@@ -21,5 +21,6 @@ int main(int argc, char *argv[])
 {
     printf("%f\n", degree(1, 5));
     printf("new line and new letter");
+    printf("after all clean.");
     return 0;
 }
