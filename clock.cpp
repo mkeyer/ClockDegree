@@ -3,7 +3,6 @@
 
 float degree(int hour, int min)
 {
-  //angle_hour - angle_min
   float angle_hour = hour * 30;
   angle_hour += min * 0.5;
   printf("angle_hour: %f\n", angle_hour);
@@ -18,7 +17,8 @@ float degree(int hour, int min)
 int main(int argc, char *argv[])
 {
     printf("%f\n", degree(1, 5));
-    //printf("a new line");
     printf("a new line2");
+    printf("the real adding line");
+
     return 0;
 }
