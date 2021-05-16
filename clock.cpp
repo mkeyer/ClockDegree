@@ -3,7 +3,6 @@
 
 #define ANGLE_PER_HOUR  360 / 12
 #define ANGLE_PER_MIN   360 / 60
-#define ANGLE_PER_MIN_IN_HOUR   ANGLE_PER_HOUR / 60
 
 float degree(int hour, int min)
 {
