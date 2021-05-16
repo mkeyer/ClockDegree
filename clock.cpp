@@ -22,6 +22,6 @@ int main(int argc, char *argv[])
     printf("%f\n", degree(1, 5));
     printf("a new line2");
     printf("the real adding line");
-    printf("add a second line");
+    printf("add a second 'add a letter' line");
     return 0;
 }
