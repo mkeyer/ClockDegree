@@ -20,8 +20,6 @@ float degree(int hour, int min)
 int main(int argc, char *argv[])
 {
     printf("%f\n", degree(1, 5));
-    printf("a new line2");
-    printf("the real adding line");
-    printf("add a second 'add a letter' line");
+    printf("new line and new letter");
     return 0;
 }
