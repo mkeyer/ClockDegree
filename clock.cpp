@@ -18,5 +18,6 @@ float degree(int hour, int min)
 int main(int argc, char *argv[])
 {
   printf("%f\n", degree(1, 5));
+  printf("a new line");
   return 0;
 }
