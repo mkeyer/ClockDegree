@@ -1,3 +1,4 @@
+// add some for rtestb
 #include <stdio.h>
 #include <math.h>
 
@@ -6,6 +7,7 @@
 
 float degree(int hour, int min)
 {
+    // add some for rtestb.
   float angle_hour = hour * ANGLE_PER_HOUR;
   angle_hour += min * 0.5;
   printf("angle_hour: %f\n", angle_hour);
@@ -15,6 +17,7 @@ float degree(int hour, int min)
     res = 360 - res;
   }
   return res;
+  // add some for rtestb.
 }
 
 int main(int argc, char *argv[])
