@@ -16,6 +16,7 @@ float degree(int hour, int min)
   if (res > 180) {
     res = 360 - res;
   }
+  // we add some for rtest2.
   return res;
   // add some for rtestb.
 }
@@ -25,5 +26,9 @@ int main(int argc, char *argv[])
     printf("%f\n", degree(11, 15));
     printf("new line and new letter");
     printf("after all clean.");
+    printf("continue for rtest");
+    printf("continue for rtest2");
+    printf("continue for rtest3");
+    printf("continue for rtest4");
     return 0;
 }
